@@ -1,5 +1,5 @@
 {
-  "name": "webrtc",
+  "name": "videochat.webrtc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "devStart": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Corey Floyd",
+  "license": "MIT",
   "dependencies": {
     "ejs": "^3.1.5",
     "express": "^4.17.1",
